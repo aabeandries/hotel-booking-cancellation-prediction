@@ -34,20 +34,35 @@ This project analyzes hotel booking data to improve revenue management by predic
 ## 4. Project Structure
 
 ├── README.md
+
 ├── data
+
 │ ├── external
+
 │ ├── interim
+
 │ ├── processed
+
 │ └── raw
+
 │
+
 ├── models
+
 ├── notebooks
+
 │ └── 1.0-aa-hotel-booking-predict.ipynb
+
 │
+
 ├── references
+
 ├── reports
+
 │ └── figures
+
 ├── requirements.txt
+
 └── src
 
 
